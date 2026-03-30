@@ -1,6 +1,6 @@
 {
   "store_name": "ETAKOK Official Store",
-  "author": "hosmerim",
+  "author": "HosmerimBasar",
   "version": "1.0.0",
   "apps": [
     {
@@ -8,7 +8,7 @@
       "name": "ULTRAPARKOUR",
       "path": "apps/ultraparkour.py",
       "thumbnail": "assets/thumbs/parkour.png",
-      "description": "A parkour game inspired by ULTRAKILL"
+      "description": "A parkour game inspired by ULTRAKILL made by HosmerimBasar(hosmerim)"
     }
   ]
 }
