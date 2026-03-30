@@ -1,0 +1,14 @@
+{
+  "store_name": "ETAKOK Official Store",
+  "author": "hosmerim",
+  "version": "1.0.0",
+  "apps": [
+    {
+      "id": "01",
+      "name": "ULTRAPARKOUR",
+      "path": "apps/ultraparkour.py",
+      "thumbnail": "assets/thumbs/parkour.png",
+      "description": "hosmerim gururla sunar: Limitleri zorla!"
+    }
+  ]
+}
