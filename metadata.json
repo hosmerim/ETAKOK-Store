@@ -8,7 +8,7 @@
       "name": "ULTRAPARKOUR",
       "path": "apps/ultraparkour.py",
       "thumbnail": "assets/thumbs/parkour.png",
-      "description": "hosmerim gururla sunar: Limitleri zorla!"
+      "description": "A parkour game inspired by ULTRAKILL"
     }
   ]
 }
